@@ -9,8 +9,7 @@ function App() {
         name='Liam Douglas'
         online />
       <Contact avatar='https://randomuser.me/api/portraits/men/3.jpg'
-        name='Marvin Dean'
-        online/> 
+        name='Marvin Dean' />
       <Contact avatar='https://randomuser.me/api/portraits/men/79.jpg'
         name='Nathan Gordon'
         online />
